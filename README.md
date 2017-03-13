@@ -1,4 +1,14 @@
 # monitor_taobao
 ###实时监控淘宝上某件商品是否有货###
-##v1.0
-* 目前只做到鞋这类物品一件商品一种尺码的监控，下版本会做到多种商品多种尺码的监控，再下版本会包含更多的商品，比如衣服，化妆品这种经常断货的商品
+## v1.0
+* At present only to do this kind of goods such as shoes, a size of the monitoring, the next version will do a variety of sizes of goods monitoring, and then the next version will contain more goods, such as clothes, cosmetics, this often out of stock s product
+
+## v1.1
+* Done
+	* TaoBao has already work.It has good versatility.Just git clone and enjoy it by code annotation!
+* Doing
+	* Until now tmall cant judge whether it has shoes you want.
+* TODO next
+	* fix tmall 
+	* deployed on the server
+	* set proper cycle time
